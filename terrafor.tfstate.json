@@ -1,0 +1,38 @@
+{
+    "version" : 4,
+    "teraform_version": "0.12.26",
+    "serial" : 45,
+    "outputs" : {},
+    "resources": [
+        {
+"mode" : "managed",
+"type" : "aws_Sbunet",
+"name" : "subnet-1",
+"provider" : "provider.aws",
+"intances" : [
+{
+    "scheme_cersion" : 1,
+    "arn" : "",
+    "assign_ipv6_address_on_creation": false,
+    "availablity_zone" : "us-west-1",
+    "availablity zone id" : "",
+    "cidr_block": "10.0.1.0/24",
+    "id" : "subnet-1",
+    "ipv6_cide_block": "",
+    "ipv6_cide_block_association_id": "",
+    "map_public_ip_on_launch": false,
+    "outpost_ara": "",
+    "owner_id": "",
+    "tags": {
+        "Name": "prod=subnet"
+    },
+    "Timeouts": null,
+    "vpc_id": "",
+    "private": "",
+    "dependencies" : ["aws_vpc.first-vpc"]
+}
+
+
+        
+
+

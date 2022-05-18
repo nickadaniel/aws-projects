@@ -1,0 +1,39 @@
+-------------------------------------------------------------------
+management console  
+choose diff regions data centers aws has 
+location 
+to you 
+west 
+hardcoding it 
+publish code project for github stored  there vul biltity as well
+-----------------------------------------------------------------
+byiZ76XtzmFsV2Y
+
+s Key
+
+    Access Key ID:
+    AKIA324LT5IHWEVBFSGF
+    Secret Access Key:
+    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
+
+-------------------------------------------------------------------
+laucnh an ec2 instance virutal machine 
+rrsouerces to connect to block 
+
+
+
+ssh into the webservices host the traffic manage it our selfs goal
+create vpc 
+creae internet gateway 
+create custome route table  
+create subnet
+aossioitate subnet with route table  
+allow port 22.80.44;
+create sec group allow interface
+with an ip in t he subnnetw created in ste p4
+assing elstic ip to the ntework interface create in ste 7
+create ubunutu server install enable 
+------------------------------------------------------------------------
+
+
+
